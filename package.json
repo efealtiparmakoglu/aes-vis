@@ -1,0 +1,11 @@
+{
+  "name": "aes-vis",
+  "version": "1.0.0",
+  "description": "AES-128 step-by-step visualizer: GF(2^8) math, runtime S-box, key schedule, per-round state dumps, FIPS-197 vectors. Zero dependencies.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "engines": { "node": ">=22.18" },
+  "license": "MIT"
+}
